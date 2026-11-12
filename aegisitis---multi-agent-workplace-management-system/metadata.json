@@ -1,0 +1,8 @@
+{
+  "name": "AegisITIS - Multi-Agent Workplace Management System",
+  "description": "Enterprise-grade Multi-Agent IT Service Management (ITIS) system powered by Google Gemini, featuring autonomous agent orchestration, interactive React Flow pipeline, real-time ticket triage, and predictive resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
